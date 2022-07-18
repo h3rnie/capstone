@@ -1,7 +1,7 @@
 ---
 type: posts
-title: Posts
-date: 2021-03-18
+title: More
+date: 2021-06-18
 ---
 
-# Posts
+# A Collection of Editor-curated Articles

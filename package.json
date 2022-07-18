@@ -1,25 +1,37 @@
 {
-  "private": true,
-  "license": "MIT",
-  "scripts": {
-    "dev": "next",
-    "build": "node ./scripts/gen-rss.js && next build",
-    "start": "next start"
-  },
-  "dependencies": {
-    "gray-matter": "^4.0.2",
-    "next": "12.0.8",
-    "nextra": "^2.0.0-beta.5",
-    "nextra-theme-blog": "^2.0.0-beta.5",
-    "react": "^17.0.2",
-    "react-dom": "^17.0.2",
-    "rss": "^1.2.2"
-  },
-  "prettier": {
-    "arrowParens": "always",
-    "singleQuote": true,
-    "tabWidth": 2,
-    "trailingComma": "none",
-    "semi": false
-  }
+    "name": "capstone",
+    "version": "0.1.0",
+    "description": "capstone",
+    "private": true,
+    "license": "AGPL-3.0-or-later",
+    "scripts": {
+        "dev": "next dev",
+        "build": "node ./scripts/gen-rss.js && next build",
+        "start": "next start",
+        "lint": "next lint"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/h3rnie/capstone.git"
+    },
+    "bugs": {
+        "url": "https://github.com/h3rnie/capstone/issues"
+    },
+    "author": "Hernie",
+    "dependencies": {
+        "gray-matter": "^4.0.3",
+        "next": "^12.2.2",
+        "nextra": "^2.0.0-beta.5",
+        "nextra-theme-blog": "^2.0.0-beta.5",
+        "react": "^18.2.0",
+        "react-dom": "^18.2.0",
+        "rss": "^1.2.2"
+    },
+    "devDependencies": {
+        "@next/eslint-plugin-next": "^12.2.2",
+        "eslint": "^8.20.0",
+        "eslint-config-next": "^12.2.2",
+        "eslint-config-prettier": "^8.5.0",
+        "prettier": "^2.7.1"
+    }
 }
