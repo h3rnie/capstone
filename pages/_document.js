@@ -3,7 +3,8 @@ import { Html, Head, Main, NextScript } from "next/document";
 export default function Document() {
     const meta = {
         title: "EDUsg",
-        description: "The place for Singaporean students to share their knowledge and experience.",
+        description:
+            "The place for Singaporean students to share their knowledge and experience.",
         image: "/pexels-timo-volz-1842332.jpg",
     };
 
@@ -38,10 +39,10 @@ export default function Document() {
                     name="twitter:card"
                     content="summary_large_image"
                 />
-                { /* <meta
+                {/* <meta
                     name="twitter:site"
                     content="@yourname"
-                /> */ }
+                /> */}
                 <meta
                     name="twitter:title"
                     content={meta.title}

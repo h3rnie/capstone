@@ -1,4 +1,7 @@
-const withNextraAndNextPWA = require("nextra")("nextra-theme-blog", "./theme.config.js");
+const withNextraAndNextPWA = require("nextra")(
+    "nextra-theme-blog",
+    "./theme.config.js"
+);
 
 module.exports = withNextraAndNextPWA({
     experimental: {

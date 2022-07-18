@@ -8,7 +8,7 @@ author: You
 
 # Embrace the Chill. Why? Because Science told us so...
 
-![](/Relaxing-Music-2-100.webp)
+![The 10 Most Relaxing Songs In The World, According To Science, Ranked](https://cdn-0.studybreaks.com/wp-content/uploads/2018/06/Relaxing-Music-2-100.jpg?ezimgfmt=ng%3Awebp%2Fngcb6%2Frs%3Adevice%2Frscb6-1)
 
 &emsp;&emsp;Although meditation, yoga and taking naps are effective forms of stress relief, listening to music is one of the easiest ways to get your dopamine flowing. You might have your own personal playlist to calm your nerves, but this one is scientifically-backed.
 
