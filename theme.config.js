@@ -1,6 +1,7 @@
 const YEAR = new Date().getFullYear();
 
 const THEME = {
+    darkMode: true,
     footer: (
         <small style={{ display: "block", marginTop: "8rem" }}>
             <time>{YEAR}</time> © EDUsg
