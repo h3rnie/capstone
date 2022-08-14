@@ -1,6 +1,6 @@
 ---
 title: Impacts of Academic Stress on our current generation
-date: 2021/6/18
+date: 2022-06-18
 description: Singaporean youth of today are facing ever-increasing stress. How then do we alleviate their growing worries?
 tag: Academic stress
 author: You

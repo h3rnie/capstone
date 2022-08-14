@@ -1,6 +1,6 @@
 ---
 title: Solutions to destressing the teens of today from academia
-date: 2021/6/18
+date: 2022-06-18
 description: What truly must be done to release our future egenrations from their academia?
 tag: Academic stress
 author: You

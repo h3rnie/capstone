@@ -1,6 +1,6 @@
 ---
 title: What is your stress level?
-date: 2021/6/18
+date: 2022-06-18
 description: Take this survey to find out truly hwo stressed your are!
 tag: Fun
 author: You

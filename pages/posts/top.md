@@ -1,6 +1,6 @@
 ---
 title: Top pop hits for relaxation!
-date: 2021/6/18
+date: 2022-06-18
 description: LOFI, K-Pop, Mandopop - There's just so much options for us to choose today!
 tag: Relaxation and Wellness
 author: You

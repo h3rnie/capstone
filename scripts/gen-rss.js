@@ -6,8 +6,8 @@ const matter = require("gray-matter");
 async function generate() {
     const feed = new RSS({
         title: "EDUsg",
-        site_url: "https://hernie.vercel.app",
-        feed_url: "https://hernie.vercel.app/feed.xml",
+        site_url: "https://cpst.vercel.app",
+        feed_url: "https://cpst.vercel.app/feed.xml",
     });
 
     const posts = await fs.readdir(

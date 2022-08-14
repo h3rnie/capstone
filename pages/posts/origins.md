@@ -1,6 +1,6 @@
 ---
 title: Origins of Academic Stress in our current generation
-date: 2021/6/18
+date: 2022-06-18
 description: Learn the underlying reasons as to the origins of academic stress in today's youth.
 tag: Academic stress
 author: You

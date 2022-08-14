@@ -1,14 +1,18 @@
 {
     "name": "capstone",
     "version": "0.1.0",
-    "description": "capstone",
-    "private": true,
+    "description": "capstone demo application regarding stress in school, education (Singapore)",
+    "private": false,
+    "keywords": [
+        "Capstone"
+    ],
     "license": "AGPL-3.0-or-later",
     "scripts": {
         "dev": "next dev",
         "build": "node ./scripts/gen-rss.js && next build",
         "start": "next start",
-        "lint": "next lint"
+        "lint": "next lint",
+        "format": "prettier --write ."
     },
     "repository": {
         "type": "git",
@@ -17,10 +21,11 @@
     "bugs": {
         "url": "https://github.com/h3rnie/capstone/issues"
     },
-    "author": "Hernie",
+    "author": "Hernie <h3rnie@outlook.com> (https://hernie.vercel.app)",
+    "homepage": "https://cpst.vercel.app",
     "dependencies": {
         "gray-matter": "^4.0.3",
-        "next": "^12.2.2",
+        "next": "^12.2.5",
         "nextra": "^2.0.0-beta.5",
         "nextra-theme-blog": "^2.0.0-beta.5",
         "react": "^18.2.0",
@@ -28,9 +33,9 @@
         "rss": "^1.2.2"
     },
     "devDependencies": {
-        "@next/eslint-plugin-next": "^12.2.2",
-        "eslint": "^8.20.0",
-        "eslint-config-next": "^12.2.2",
+        "@next/eslint-plugin-next": "^12.2.5",
+        "eslint": "^8.22.0",
+        "eslint-config-next": "^12.2.5",
         "eslint-config-prettier": "^8.5.0",
         "prettier": "^2.7.1"
     }
