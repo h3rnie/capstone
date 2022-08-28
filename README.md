@@ -1,5 +1,5 @@
-# Capstone demo application
+# Capstone Demo Application
 
-## Stress in School, Education
+## Stress in School, Education - Singapore
 
-[![](/public/pexels-timo-volz-1842332.jpg)](https://cpst.vercel.app)
+[![Marina Bay, Singapore](/public/pexels-timo-volz-1842332.jpg)](https://cpst.vercel.app)

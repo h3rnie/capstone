@@ -9,7 +9,7 @@ export default function Document() {
     };
 
     return (
-        <Html lang="en-GB">
+        <Html>
             <Head>
                 <meta
                     name="robots"

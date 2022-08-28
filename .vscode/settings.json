@@ -1,0 +1,14 @@
+{
+    "files.autoSave": "afterDelay",
+    "editor.renderWhitespace": "all",
+    "editor.cursorStyle": "underline-thin",
+    "editor.wordWrap": "on",
+    "files.exclude": {
+        "**/.DS_Store": false,
+        "**/.git": false,
+        "**/.hg": false,
+        "**/.svn": false,
+        "**/CVS": false,
+        "**/Thumbs.db": false
+    }
+}
